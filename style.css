@@ -16,6 +16,8 @@ h1 {
 p {
   font-size: 16px;
   margin: 30px;
+  font-weight: 500;
+  line-height: 1.5;
 }
 
 a {
@@ -27,9 +29,9 @@ a {
 .btn {
     background-color: #9a8c98;
     color: white;
-    padding: 15px 30px;
+    padding: 15px 9px;
     border-radius: 4px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 a:hover {
