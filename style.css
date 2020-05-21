@@ -21,7 +21,7 @@ p {
 a {
   text-decoration: none;
   color: #9a8c98;
-  font-weight: 500px
+  font-weight: 500;
 }
 
 .btn {
@@ -34,7 +34,7 @@ a {
 
 a:hover {
   color: #4a4e69;
-  font-weight: 620px
+  font-weight: 620
 }
 
 h2 {
