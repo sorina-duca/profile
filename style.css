@@ -78,7 +78,9 @@ ul {
 .list-inline li {
 display: inline-block;
 font-size: 40px;
-text-align: center
+text-align: center;
+padding: 0px;
+margin:8px 24px;
 }
 
 @media (max-width: 960px) {
