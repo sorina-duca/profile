@@ -75,12 +75,12 @@ ul {
   padding: 0px;
 }
 
-.list-inline li {
+li {
 display: inline-block;
 font-size: 40px;
 text-align: center;
 padding: 0px;
-margin:8px 24px;
+margin: 8px 24px;
 }
 
 @media (max-width: 960px) {
